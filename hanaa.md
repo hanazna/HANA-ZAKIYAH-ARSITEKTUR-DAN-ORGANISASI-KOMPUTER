@@ -23,10 +23,10 @@
 
 Perbandingan Mendalam Antara Sistem Operasi Linux dan Windows
 a.	Filosofi
-Windows:
+Linux:
 Dirancang dengan prinsip fleksibilitas, kustomisasi, dan kinerja tinggi. Pengguna memiliki kendali penuh atas sistem dan dapat menyesuaikannya sesuai kebutuhan.
 
-Linux:
+Windows:
 Dirancang dengan fokus pada kemudahan penggunaan dan kompatibilitas perangkat keras. Sistem ini ditujukan untuk pengguna umum yang ingin menjalankan berbagai aplikasi populer.
 
 b.	Struktur Sistem Berkas

@@ -1,11 +1,10 @@
 ## Linux:
-
-
+![WhatsApp Image 2024-10-04 at 8 19 47 AM](https://github.com/user-attachments/assets/9a60b97d-c867-4a2f-8bbd-080c6b812345)
 
 
 
 ## Windows:
-![Screenshot 2024-10-04 024841](https://github.com/user-attachments/assets/9156a8e5-fd0e-4317-92c6-ef0f3cbc1c14)
+![WhatsApp Image 2024-10-04 at 8 21 52 AM](https://github.com/user-attachments/assets/ae52bea6-e637-47c9-b8ed-5bb499148b15)
 
 
 
@@ -21,7 +20,8 @@
 
 
 
-### Perbandingan Mendalam Antara Sistem Operasi Linux dan Windows
+
+### Perbedaan Antara Sistem Operasi Linux dan Windows
 ### a.	Filosofi
 #### Linux:
 Dirancang dengan prinsip fleksibilitas, kustomisasi, dan kinerja tinggi. Pengguna memiliki kendali penuh atas sistem dan dapat menyesuaikannya sesuai kebutuhan.

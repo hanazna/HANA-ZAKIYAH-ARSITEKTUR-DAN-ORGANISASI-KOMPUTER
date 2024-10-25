@@ -10,7 +10,7 @@ Jika R1 = 1500, maka alamat yang diakses adalah nilai yang terdapat di lokasi me
 Alamat yang diakses: 1500 (nilai yang ada di alamat ini menunjuk ke alamat operand yang sebenarnya).
 
 3. Pengalamatan Indeks:
-**Instruksi: LOAD A, 500(R2)
+Instruksi: LOAD A, 500(R2)
 Pada pengalamatan indeks, alamat operand dihitung dengan menjumlahkan nilai offset (dalam hal ini 500) dan nilai yang ada di register R2.
 Jika R2 = 100, maka:
 Alamat yang diakses: 500 +100 = 600
